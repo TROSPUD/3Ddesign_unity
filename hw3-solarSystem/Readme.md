@@ -20,8 +20,6 @@
 
 ![3.jpg](imags-procedure/3.jpg)
 
-![3.jpg](imags-procedure/3%201.jpg)
-
 ![1.jpg](imags-procedure/1.jpg)
 
 ![2.jpg](imags-procedure/2.jpg)
